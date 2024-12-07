@@ -1,4 +1,3 @@
-.github/workflows/deply.yml
 name: Simple Deplay
 
 on:
