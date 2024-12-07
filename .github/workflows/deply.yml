@@ -19,7 +19,7 @@ jobs:
         switches: -avzr --delete
         path: './'
         remote_path: '/var/www/html/cicd'
-        remote_host: ${{ secrets.SERVER_IP }}
+        remote_host: '34.31.159.18'
         remote_user: ${{ secrets.SERVER_USER }}
         remote_key: ${{ secrets.SERVER_SSH_KEY }}
 
