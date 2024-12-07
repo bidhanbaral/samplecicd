@@ -1,3 +1,4 @@
+.github/workflows/deply.yml
 name: Simple Deplay
 
 on:
@@ -23,6 +24,4 @@ jobs:
         remote_user: ${{ secrets.SERVER_USER }}
         remote_key: ${{ secrets.SERVER_SSH_KEY }}
 
-   # - name: Run php artisan optimize
-      run: |
-        ssh -i ${{ secrets.SERVER_SSH_KEY }} ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_IP }} "cd /var/www/html/cicd"
+  
