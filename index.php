@@ -2,5 +2,5 @@
 
 phpinfo();
 
-echo "Hello 2";
+echo "Hello";
 ?>
