@@ -1,4 +1,4 @@
-name: Simple Deplay
+name: Simple Deploy
 
 on:
   push:
