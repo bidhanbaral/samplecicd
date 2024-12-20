@@ -21,7 +21,6 @@ jobs:
         remote_path: '/var/www/html/cicd'
         remote_host: '34.31.159.18'
         remote_user: 'csebidhan'
-        remote_key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgtnf2IODHGf5Zzpgfq4P3vII+BTSsowK88YzuXjKYQE9HpyLbSmG7G1fEnlOWMVXeZqANg/WEyCNIAE+T/Qnc88bhP/3oGIzPkLBkaioKeJVtw6kFIzrkyk5fmmobpBmL5tFdGFGizI1p92beFPJxC2X6H43wS2YvUMxBC93VRUL9mWHNLus7/3Hz5P78zI159r+ykSzuKfBoIpGQtemqG1J+5B/XSnbg0kGsoYGT9yCaUfXTOF7fchv8Jybvjk3KnppJz2BQ8QhaismUb0wdt2fWC0S2Ed9mNwUCH8gYc9Gy9R7teKvjY652W6rrMPvxeQq/Ts3NTQkN/6OWpIB3 csebidhan@gmail.com
-'
+        remote_key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgtnf2IODHGf5Zzpgfq4P3vII+BTSsowK88YzuXjKYQE9HpyLbSmG7G1fEnlOWMVXeZqANg/WEyCNIAE+T/Qnc88bhP/3oGIzPkLBkaioKeJVtw6kFIzrkyk5fmmobpBmL5tFdGFGizI1p92beFPJxC2X6H43wS2YvUMxBC93VRUL9mWHNLus7/3Hz5P78zI159r+ykSzuKfBoIpGQtemqG1J+5B/XSnbg0kGsoYGT9yCaUfXTOF7fchv8Jybvjk3KnppJz2BQ8QhaismUb0wdt2fWC0S2Ed9mNwUCH8gYc9Gy9R7teKvjY652W6rrMPvxeQq/Ts3NTQkN/6OWpIB3 csebidhan@gmail.com'
 
   
