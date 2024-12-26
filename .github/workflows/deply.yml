@@ -21,6 +21,6 @@ jobs:
         remote_path: '/var/www/html/cicd'
         remote_host: '34.31.159.18'
         remote_user: 'csebidhan'
-        remote_key: ${{ secrets.SERVER_SSH_KEY }}
+        remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
 
   
