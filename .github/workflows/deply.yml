@@ -21,8 +21,7 @@ jobs:
         remote_path: '/var/www/html/cicd'
         remote_host: '34.31.159.18'
         remote_user: 'csebidhan'
-        remote_key: '-----BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABFwAAAAdzc2gtcn
+        remote_key: 'b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABFwAAAAdzc2gtcn
 NhAAAAAwEAAQAAAQEAxnEfA1mG1eV7YWzpqdudEMQjeOfmlCpIZxqAassmfuXVAT/PXG8t
 LCgYlmZVEnRPifRHxN8N0ETbjWv1CKka1C18qYrIaTYFVXgIqJgBBQWI+dqkz2aZFwHgGr
 9YNUAr2pV3gWeK9tix38VH13w9LIwg1mhTnKZaOxw3xOagSrK4aMaOYlWIubE/fylqNFJZ
@@ -46,7 +45,6 @@ xdZczBwO0ghSH8atIFE7kLm2oFEICluP5myWFnEg8u+Wt3QH4FIyyK/j3hbfx3caF26Vvs
 KxL9BqcuMBAUuIJKAFI58lezcT/Kl0zKbo6cbEi5en7WZBNwAAAIEA3bDeUW9qAXTu32sl
 eGcrv5q/0EgW5yawLuh68JQ0ZzjfFrClaM+j774yigDzzV+I0scVtxyYHMcroXuQCxmRSz
 Kt2YtZNC9WqYQB67mjPlfEECKgmImIv0oy1ZvfqPYMJbdrYUiMGupu2UFdPPP4c7xtUnpj
-zZ3BSWTpQ2TutEEAAAATY3NlYmlkaGFuQGdtYWlsLmNvbQ==
------END OPENSSH PRIVATE KEY-----'
+zZ3BSWTpQ2TutEEAAAATY3NlYmlkaGFuQGdtYWlsLmNvbQ=='
 
   
